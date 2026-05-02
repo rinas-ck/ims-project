@@ -18,9 +18,9 @@
 ## Run Instructions
 
 ### Backend
-cd backend
-pip install -r requirements.txt
-uvicorn app:app --reload
+- cd backend
+- pip install -r requirements.txt
+- uvicorn app:app --reload
 
 ### Frontend
 Open frontend/index.html using Live Server
